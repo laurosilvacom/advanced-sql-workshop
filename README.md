@@ -5,7 +5,7 @@
 
 ## System Requirements & Setup
 
-- [ ] Clone this repo:
+- [x] Clone this repo:
 
 ```shell
 git clone https://github.com/twclark0/sql-advanced.git
@@ -13,11 +13,11 @@ git clone https://github.com/twclark0/sql-advanced.git
 cd sql-advanced
 ```
 
-- [ ] Install postgres on your machine. When it's install, make sure you can connect to your local DB by running `psql postgres` in your terminal
+- [x] Install postgres on your machine. When it's install, make sure you can connect to your local DB by running `psql postgres` in your terminal
 
-- [ ] Use HomeBrew `brew install postgresql`
+- [x] Use HomeBrew `brew install postgresql`
 
-- [ ] Once you have postgres running locally, run the following commands:
+- [x] Once you have postgres running locally, run the following commands:
 
 ```sql
 create table users (
