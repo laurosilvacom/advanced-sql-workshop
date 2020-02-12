@@ -15,20 +15,100 @@
 
 ## 1. Bulk insert / update / export
 
+<details>
+
+<summary><b>Feedback</b></summary>
+
+- Feedback of each lessong goes here.
+
+</details>
+
 ## 2. The insert on conflict flag
+
+<details>
+
+<summary><b>Feedback</b></summary>
+
+- Feedback of each lessong goes here.
+
+</details>
 
 ## 3. Casting types
 
+<details>
+
+<summary><b>Feedback</b></summary>
+
+- Feedback of each lessong goes here.
+
+</details>
+
 ## 4. Defining custom types
 
-## 5. Query performance tuning.
+<details>
+
+<summary><b>Feedback</b></summary>
+
+- Feedback of each lessong goes here.
+
+</details>
+
+## 5. Query performance tuning
+
+<details>
+
+<summary><b>Feedback</b></summary>
+
+- Feedback of each lessong goes here.
+
+</details>
 
 ## 6. Creating Common Table Expressions (CTE)
 
+<details>
+
+<summary><b>Feedback</b></summary>
+
+- Feedback of each lessong goes here.
+
+</details>
+
 ## 7. Filter aggregated data with `having`
+
+<details>
+
+<summary><b>Feedback</b></summary>
+
+- Feedback of each lessong goes here.
+
+</details>
 
 ## 8. Defining scopes and variables with `do` and `declare`
 
+<details>
+
+<summary><b>Feedback</b></summary>
+
+- Feedback of each lessong goes here.
+
+</details>
+
 ## 9. Conditional returns with `case`, `when`, `then`, `else`, & `end`
 
+<details>
+
+<summary><b>Feedback</b></summary>
+
+- Feedback of each lessong goes here.
+
+</details>
+
 ## 10. Perform Multiple Steps in One with Transactions
+
+<details>
+
+<summary><b>Feedback</b></summary>
+
+- Feedback of each lessong goes here.
+
+</details>
