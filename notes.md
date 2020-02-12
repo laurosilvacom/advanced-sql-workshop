@@ -1,6 +1,4 @@
-# Notes
-
-## Table of Contents
+# Table of Contents
 
 1. [Bulk insert / update / export](#1-bulk-insert--update--export)
 2. [The insert on conflict flag](#2-the-insert-on-conflict-flag)
@@ -12,6 +10,8 @@
 8. [Defining scopes and variables with `do` and `declare`](#8-defining-scopes-and-variables-with-do-and-declare)
 9. [Conditional returns with `case`, `when`, `then`, `else`, & `end`](#9-conditional-returns-with-case-when-then-else--end)
 10. [Perform Multiple Steps in One with Transactions](#10-perform-multiple-steps-in-one-with-transactions)
+
+# Notes
 
 ## 1. Bulk insert / update / export
 
