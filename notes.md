@@ -21,7 +21,7 @@
 
 ## 4. Defining custom types
 
-## 5. Query performance tuning. Understanding the query planner by using `explain` and `analyze`
+## 5. Query performance tuning.
 
 ## 6. Creating Common Table Expressions (CTE)
 
