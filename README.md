@@ -1,7 +1,6 @@
 # Advanced SQL Workshop Notes
 
 - [Notes](https://github.com/laurosilvacom/advanced-sql-workshop/blob/master/notes.md)
-- [Feedback](https://github.com/laurosilvacom/advanced-sql-workshop/blob/master/feedback.md)
 
 ## System Requirements & Setup
 
